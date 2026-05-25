@@ -33,21 +33,4 @@
   </picture>
 </p>
 
-<table align="center">
-  <tr>
-    <td valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hoobnn&hide_border=true&background=00000000&border_radius=8&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&dayNums=C9D1D9" />
-        <img height="120" src="https://streak-stats.demolab.com?user=hoobnn&hide_border=true&background=00000000&border_radius=8&ring=0969DA&fire=0969DA&currStreakNum=24292F&currStreakLabel=0969DA&sideNums=24292F&sideLabels=24292F&dates=57606A&dayNums=24292F" alt="streak" />
-      </picture>
-    </td>
-    <td valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hoobnn&bg_color=00000000&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&area_color=58A6FF&hide_border=true&height=300&custom_title=Contribution+Graph" />
-        <img height="120" src="https://github-readme-activity-graph.vercel.app/graph?username=hoobnn&bg_color=00000000&color=0969DA&line=0969DA&point=1F6FEB&area=true&area_color=58A6FF&hide_border=true&height=300&custom_title=Contribution+Graph" alt="activity graph" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
 </div>
