@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=720&lines=Hoping+to+build+something+useful." />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=2000&color=57606A&center=true&vCenter=true&width=720&lines=Hoping+to+build+something+useful." alt="Hoping to build something useful." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=34&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=720&height=65&lines=Hoping+to+build+something+useful." />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=34&duration=4000&pause=2000&color=57606A&center=true&vCenter=true&width=720&height=65&lines=Hoping+to+build+something+useful." alt="Hoping to build something useful." />
 </picture>
 
 <br />
@@ -22,7 +22,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoobnn/hoobnn/output/snake-dark.svg" />
-  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/hoobnn/hoobnn/output/snake.svg" />
+  <img width="720" alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/hoobnn/hoobnn/output/snake.svg" />
 </picture>
 
 <br /><br />
