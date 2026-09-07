@@ -24,12 +24,12 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-26a4.vercel.app/api/top-langs/?username=hoobnn&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-    <img height="160" src="https://github-readme-stats-26a4.vercel.app/api/top-langs/?username=hoobnn&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&langs_count=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=hoobnn&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+    <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hoobnn&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&langs_count=8" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-26a4.vercel.app/api?username=hoobnn&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-    <img height="160" src="https://github-readme-stats-26a4.vercel.app/api?username=hoobnn&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&title_color=0969DA&icon_color=0969DA&text_color=24292F" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=hoobnn&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+    <img height="160" src="https://github-stats-extended.vercel.app/api?username=hoobnn&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&title_color=0969DA&icon_color=0969DA&text_color=24292F" />
   </picture>
 </p>
 
