@@ -29,8 +29,8 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=hoobnn&layout=compact&hide_border=true&bg_color=00000000&title_color=8B949E&text_color=8B949E&langs_count=6" />
-    <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hoobnn&layout=compact&hide_border=true&bg_color=00000000&title_color=57606A&text_color=57606A&langs_count=6" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=hoobnn&layout=compact&hide_border=true&bg_color=00000000&title_color=8B949E&text_color=8B949E&langs_count=6&exclude_repo=writer-studio" />
+    <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hoobnn&layout=compact&hide_border=true&bg_color=00000000&title_color=57606A&text_color=57606A&langs_count=6&exclude_repo=writer-studio" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=hoobnn&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E" />
