@@ -16,24 +16,23 @@
 <p><b>I am…</b></p>
 
 <p>
-  比茗 · Swift on Apple platforms<br />
-  Keeper of <a href="https://github.com/hoobnn/fly-rule">fly-rule</a>
+  比茗 · [一句话介绍]<br />
+  [补充一句]
 </p>
 
 <p><b>Currently</b></p>
 
 <p>
-  Small apps for iOS &amp; macOS<br />
-  Local models on Apple Silicon
+  [正在做的事 1]<br />
+  [正在做的事 2]
 </p>
 
 <p><b>Where to find me</b></p>
 
 <p>
-  <a href="mailto:you@example.com">Email</a> ·
-  <a href="https://example.com">Blog</a> ·
-  <a href="https://x.com/your_handle">X</a> ·
-  <a href="https://t.me/your_handle">Telegram</a>
+  <a href="#">[联系方式 1]</a> ·
+  <a href="#">[联系方式 2]</a> ·
+  <a href="#">[联系方式 3]</a>
 </p>
 
 <br />
