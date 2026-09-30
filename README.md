@@ -16,16 +16,15 @@
 <p><b>I am…</b></p>
 
 <p>
-  比茗, mostly writing Swift for Apple platforms<br />
-  Reaching for Python when models get involved<br />
-  Keeper of <a href="https://github.com/hoobnn/fly-rule">fly-rule</a>, rules for Surge &amp; mihomo
+  比茗 · Swift on Apple platforms<br />
+  Keeper of <a href="https://github.com/hoobnn/fly-rule">fly-rule</a>
 </p>
 
 <p><b>Currently</b></p>
 
 <p>
-  Crafting small, quiet apps for iOS and macOS<br />
-  Running open models on Apple Silicon
+  Small apps for iOS &amp; macOS<br />
+  Local models on Apple Silicon
 </p>
 
 <p><b>Where to find me</b></p>
@@ -35,14 +34,6 @@
   <a href="https://example.com">Blog</a> ·
   <a href="https://x.com/your_handle">X</a> ·
   <a href="https://t.me/your_handle">Telegram</a>
-</p>
-
-<p><b>My GitHub activities</b></p>
-
-<p>
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Ahoobnn">Pull requests</a> ·
-  <a href="https://github.com/issues?q=is%3Aissue+author%3Ahoobnn">Issues</a> ·
-  <a href="https://github.com/hoobnn?tab=stars">Stars</a>
 </p>
 
 <br />
