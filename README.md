@@ -7,23 +7,46 @@
 
 <br />
 
-<p>I'm <b>比茗</b>. I mostly write Swift.</p>
-
 <p>
   <sub><i>Some things I make are useful. Some are just quiet.<br />Either way, I leave them here.</i></sub>
 </p>
 
-<br />
-
-<p><sub>— &nbsp;now&nbsp; —</sub></p>
-
-<p><sub>
-  Crafting small, quiet apps for Apple platforms<br />
-  Running open models locally on Apple Silicon<br />
-  Keeping <a href="https://github.com/hoobnn/fly-rule">fly-rule</a> tidy for Surge &amp; mihomo
-</sub></p>
+</div>
 
 <br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=hoobnn&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&card_width=400&title_color=8B949E&icon_color=8B949E&text_color=8B949E" />
+  <img align="right" width="380" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=hoobnn&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&card_width=400&title_color=57606A&icon_color=57606A&text_color=57606A" />
+</picture>
+
+**I am…**
+
+- 比茗, mostly writing Swift for Apple platforms
+- Reaching for Python when models get involved
+- Keeper of [fly-rule](https://github.com/hoobnn/fly-rule), rules for Surge &amp; mihomo
+
+**Currently**
+
+- Crafting small, quiet apps for iOS and macOS
+- Running open models on Apple Silicon
+
+**Where to find me**
+
+[Email](mailto:you@example.com) ·
+[Blog](https://example.com) ·
+[X](https://x.com/your_handle) ·
+[Telegram](https://t.me/your_handle)
+
+**My GitHub activities**
+
+[Pull requests](https://github.com/pulls?q=is%3Apr+author%3Ahoobnn) ·
+[Issues](https://github.com/issues?q=is%3Aissue+author%3Ahoobnn) ·
+[Stars](https://github.com/hoobnn?tab=stars)
+
+<br />
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoobnn/hoobnn/output/snake-dark.svg" />
@@ -35,24 +58,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=hoobnn&layout=compact&hide_border=true&bg_color=00000000&title_color=8B949E&text_color=8B949E&langs_count=8&card_width=400&exclude_repo=writer-studio" />
     <img width="380" alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hoobnn&layout=compact&hide_border=true&bg_color=00000000&title_color=57606A&text_color=57606A&langs_count=8&card_width=400&exclude_repo=writer-studio" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=hoobnn&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&card_width=400&title_color=8B949E&icon_color=8B949E&text_color=8B949E" />
-    <img width="380" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=hoobnn&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&card_width=400&title_color=57606A&icon_color=57606A&text_color=57606A" />
-  </picture>
-</p>
-
-<br />
-
-<p><sub>— &nbsp;elsewhere&nbsp; —</sub></p>
-
-<p>
-  <a href="mailto:you@example.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://example.com">Blog</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/your_handle">X</a>
-  &nbsp;·&nbsp;
-  <a href="https://t.me/your_handle">Telegram</a>
 </p>
 
 </div>
