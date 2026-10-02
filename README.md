@@ -52,3 +52,9 @@
 - [ci-workflows](https://github.com/hoobnn/ci-workflows)：macOS 应用签名、公证、发布的复用 GitHub Actions
 
 <sub>Mostly macOS utilities, coding-agent tooling and proxy rule sets. READMEs are in Chinese with English versions linked at the top.</sub>
+
+### 联系我
+
+- 使用问题、功能建议：在对应项目提 Issue 或 Discussion
+- 安全漏洞：用项目页的 **Security › Report a vulnerability** 私下报告
+- 其他事情：[uhoobnn@ikuyu.com](mailto:uhoobnn@ikuyu.com)，或 X 上的 [@uhoobnn](https://x.com/uhoobnn)
