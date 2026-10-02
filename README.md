@@ -28,3 +28,27 @@
 </p>
 
 </div>
+
+### 在做的东西
+
+**macOS 小工具**
+
+- [fanfan](https://github.com/hoobnn/fanfan)：菜单栏风扇控制与温度监控，Apple Silicon 和 Intel 都能用
+- [LiveTranslateBridge](https://github.com/hoobnn/livetranslate-bridge)：通话、会议和任意 App 声音的实时翻译与双语字幕
+- [Keyboard Logo Fix](https://github.com/hoobnn/macos-keyboard-logo-fix)：让 SCC100、FMate98 键盘在 macOS 上恢复自己设置的 LOGO 灯效
+
+以上都能用 Homebrew 装：`brew tap hoobnn/tap`（[homebrew-tap](https://github.com/hoobnn/homebrew-tap)）。
+
+**AI Agent 与写作**
+
+- [novel-harness](https://github.com/hoobnn/novel-harness)：在 Claude Code 里用多个子智能体写长篇小说，连续性记在账本里
+- [writer-studio](https://github.com/hoobnn/writer-studio)：基于 Cherry Studio 改的本地长篇写作工具
+- [hoobnn-skills](https://github.com/hoobnn/hoobnn-skills)：Claude Code / Codex 通用的 Agent Skills，Git 工作流、数据竞赛、数学建模
+- [hoobnn-agent-mods](https://github.com/hoobnn/hoobnn-agent-mods)：Claude Code 状态栏 HUD、Tailscale 节点状态条等插件
+
+**其他**
+
+- [fly-rule](https://github.com/hoobnn/fly-rule)：Surge 与 mihomo（Clash Meta）分流规则，每日同步
+- [ci-workflows](https://github.com/hoobnn/ci-workflows)：macOS 应用签名、公证、发布的复用 GitHub Actions
+
+<sub>Mostly macOS utilities, coding-agent tooling and proxy rule sets. READMEs are in Chinese with English versions linked at the top.</sub>
