@@ -33,23 +33,23 @@
 
 **macOS 小工具**
 
-- [fanfan](https://github.com/hoobnn/fanfan)：菜单栏风扇控制与温度监控，Apple Silicon 和 Intel 都能用
-- [LiveTranslateBridge](https://github.com/hoobnn/livetranslate-bridge)：通话、会议和任意 App 声音的实时翻译与双语字幕
-- [Keyboard Logo Fix](https://github.com/hoobnn/macos-keyboard-logo-fix)：让 SCC100、FMate98 键盘在 macOS 上恢复自己设置的 LOGO 灯效
+- [fanfan](https://github.com/hoobnn/fanfan)：菜单栏风扇控制与温度监控工具，支持 Apple Silicon 和 Intel 机型
+- [LiveTranslateBridge](https://github.com/hoobnn/livetranslate-bridge)：为通话、会议及任意 App 的音频提供实时翻译和双语字幕
+- [Keyboard Logo Fix](https://github.com/hoobnn/macos-keyboard-logo-fix)：在 macOS 上恢复 SCC100、FMate98 键盘的自定义 LOGO 灯效
 
-以上都能用 Homebrew 装：`brew tap hoobnn/tap`（[homebrew-tap](https://github.com/hoobnn/homebrew-tap)）。
+以上工具均可通过 Homebrew 安装：`brew tap hoobnn/tap`（[homebrew-tap](https://github.com/hoobnn/homebrew-tap)）。
 
 **AI Agent 与写作**
 
-- [novel-harness](https://github.com/hoobnn/novel-harness)：在 Claude Code 里用多个子智能体写长篇小说，连续性记在账本里
-- [writer-studio](https://github.com/hoobnn/writer-studio)：基于 Cherry Studio 改的本地长篇写作工具
-- [hoobnn-skills](https://github.com/hoobnn/hoobnn-skills)：Claude Code / Codex 通用的 Agent Skills，Git 工作流、数据竞赛、数学建模
-- [hoobnn-agent-mods](https://github.com/hoobnn/hoobnn-agent-mods)：Claude Code 状态栏 HUD、Tailscale 节点状态条等插件
+- [novel-harness](https://github.com/hoobnn/novel-harness)：Claude Code 长篇小说写作插件，由多个子智能体分工完成规划、写作与审校，时间线、人物状态和伏笔由独立的事实层记录并校验
+- [writer-studio](https://github.com/hoobnn/writer-studio)：基于 Cherry Studio 改造的本地长篇写作工具
+- [hoobnn-skills](https://github.com/hoobnn/hoobnn-skills)：适用于 Claude Code 和 Codex 的 Agent Skills 合集，涵盖 Git 工作流、数据竞赛与数学建模
+- [hoobnn-agent-mods](https://github.com/hoobnn/hoobnn-agent-mods)：Claude Code 插件合集，包括状态栏 HUD、Tailscale 节点状态条等
 
 **其他**
 
-- [fly-rule](https://github.com/hoobnn/fly-rule)：Surge 与 mihomo（Clash Meta）分流规则，每日同步
-- [ci-workflows](https://github.com/hoobnn/ci-workflows)：macOS 应用签名、公证、发布的复用 GitHub Actions
+- [fly-rule](https://github.com/hoobnn/fly-rule)：Surge 与 mihomo（Clash Meta）分流规则集，每日同步更新
+- [ci-workflows](https://github.com/hoobnn/ci-workflows)：可复用的 GitHub Actions 工作流，用于 macOS 应用的签名、公证与发布
 
 <sub>Mostly macOS utilities, coding-agent tooling and proxy rule sets. READMEs are in Chinese with English versions linked at the top.</sub>
 
