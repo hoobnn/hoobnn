@@ -45,6 +45,7 @@
 - [writer-studio](https://github.com/hoobnn/writer-studio)：基于 Cherry Studio 改造的本地长篇写作工具
 - [hoobnn-skills](https://github.com/hoobnn/hoobnn-skills)：适用于 Claude Code 和 Codex 的 Agent Skills 合集，涵盖 Git 工作流、数据竞赛与数学建模
 - [hoobnn-agent-mods](https://github.com/hoobnn/hoobnn-agent-mods)：Claude Code 插件合集，包括状态栏 HUD、Tailscale 节点状态条等
+- [hoobnn-mcps](https://github.com/hoobnn/hoobnn-mcps)：MCP server 合集，提供火山方舟 Seedream 生图，以及阿里云百炼的图像、语音、视频生成与语言模型调用
 
 **其他**
 
