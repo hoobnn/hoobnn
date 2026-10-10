@@ -31,7 +31,7 @@
 
 ### 在做的东西
 
-**macOS 小工具**
+#### macOS 小工具
 
 - [fanfan](https://github.com/hoobnn/fanfan)：菜单栏风扇控制与温度监控工具，支持 Apple Silicon 和 Intel 机型
 - [LiveTranslateBridge](https://github.com/hoobnn/livetranslate-bridge)：为通话、会议及任意 App 的音频提供实时翻译和双语字幕
@@ -39,7 +39,7 @@
 
 以上工具均可通过 Homebrew 安装：`brew tap hoobnn/tap`（[homebrew-tap](https://github.com/hoobnn/homebrew-tap)）。
 
-**AI Agent 与写作**
+#### AI Agent 与写作
 
 - [novel-harness](https://github.com/hoobnn/novel-harness)：Claude Code 长篇小说写作插件，由多个子智能体分工完成规划、写作与审校，时间线、人物状态和伏笔由独立的事实层记录并校验
 <!-- - [writer-studio](https://github.com/hoobnn/writer-studio)：基于 Cherry Studio 改造的本地长篇写作工具 -->
@@ -47,7 +47,7 @@
 - [hoobnn-mcps](https://github.com/hoobnn/hoobnn-mcps)：MCP server 合集，提供火山方舟 Seedream 生图，以及阿里云百炼的图像、语音、视频生成与语言模型调用
 - [hoobnn-agent-mods](https://github.com/hoobnn/hoobnn-agent-mods)：Claude Code 插件合集，包括状态栏 HUD、Tailscale 节点状态条等
 
-**其他**
+#### 其他
 
 - [fly-rule](https://github.com/hoobnn/fly-rule)：Surge 与 mihomo（Clash Meta）分流规则集，每日同步更新
 - [luci-app-mihomo-traffic](https://github.com/hoobnn/luci-app-mihomo-traffic)：OpenClash 流量统计插件，按设备、节点、域名统计流量，在 full-cone NAT 下也能正常统计
