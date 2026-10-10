@@ -50,6 +50,7 @@
 **其他**
 
 - [fly-rule](https://github.com/hoobnn/fly-rule)：Surge 与 mihomo（Clash Meta）分流规则集，每日同步更新
+- [luci-app-mihomo-traffic](https://github.com/hoobnn/luci-app-mihomo-traffic)：OpenClash 流量统计插件，按设备、节点、域名统计流量，在 full-cone NAT 下也能正常统计
 - [ci-workflows](https://github.com/hoobnn/ci-workflows)：可复用的 GitHub Actions 工作流，用于 macOS 应用的签名、公证与发布
 
 <sub>Mostly macOS utilities, coding-agent tooling and proxy rule sets. READMEs are in Chinese with English versions linked at the top.</sub>
