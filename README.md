@@ -33,8 +33,8 @@
 
 #### macOS 小工具
 
-- [fanfan](https://github.com/hoobnn/fanfan)：菜单栏风扇控制与温度监控工具，支持 Apple Silicon 和 Intel 机型
-- [LiveTranslateBridge](https://github.com/hoobnn/livetranslate-bridge)：为通话、会议及任意 App 的音频提供实时翻译和双语字幕
+- [FanFan](https://github.com/hoobnn/fanfan)：菜单栏风扇控制与温度监控工具，支持 Apple Silicon 和 Intel 机型
+- [LiveTranslate Bridge](https://github.com/hoobnn/livetranslate-bridge)：为通话、会议及任意 App 的音频提供实时翻译和双语字幕
 - [Keyboard Logo Fix](https://github.com/hoobnn/macos-keyboard-logo-fix)：在 macOS 上恢复 SCC100、FMate98 键盘的自定义 LOGO 灯效
 
 以上工具均可通过 Homebrew 安装：`brew tap hoobnn/tap`（[homebrew-tap](https://github.com/hoobnn/homebrew-tap)）。
