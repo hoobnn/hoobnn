@@ -39,8 +39,9 @@
 
 以上工具均可通过 Homebrew 安装：`brew tap hoobnn/tap`（[homebrew-tap](https://github.com/hoobnn/homebrew-tap)）。
 
-#### AI Agent 与写作
+#### AI 创作与 Agent
 
+- [Plein](https://github.com/hoobnn/plein)：开源 AI 无限画布，从一句创意开始，剧本、分镜、镜头与配音在画布上铺开，和 AI Agent 一起完成作品（[官网](https://plein.ikuyu.com)）
 - [novel-harness](https://github.com/hoobnn/novel-harness)：Claude Code 长篇小说写作插件，由多个子智能体分工完成规划、写作与审校，时间线、人物状态和伏笔由独立的事实层记录并校验
 <!-- - [writer-studio](https://github.com/hoobnn/writer-studio)：基于 Cherry Studio 改造的本地长篇写作工具 -->
 - [hoobnn-skills](https://github.com/hoobnn/hoobnn-skills)：适用于 Claude Code 和 Codex 的 Agent Skills 合集，涵盖 Git 工作流、数据竞赛与数学建模
@@ -53,7 +54,7 @@
 - [luci-app-mihomo-traffic](https://github.com/hoobnn/luci-app-mihomo-traffic)：OpenClash 流量统计插件，按设备、节点、域名统计流量，在 full-cone NAT 下也能正常统计
 - [ci-workflows](https://github.com/hoobnn/ci-workflows)：可复用的 GitHub Actions 工作流，用于 macOS 应用的签名、公证与发布
 
-<sub>Mostly macOS utilities, coding-agent tooling and proxy rule sets. READMEs are in Chinese with English versions linked at the top.</sub>
+<sub>Mostly macOS utilities, AI storytelling and coding-agent tooling and proxy rule sets. READMEs are in Chinese with English versions linked at the top.</sub>
 
 ### 联系我
 
