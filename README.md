@@ -11,6 +11,17 @@
 
 我是 hoobnn，个人网站 [IKUYU](https://www.ikuyu.com)
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=hoobnn&layout=compact&hide_border=true&bg_color=00000000&title_color=8B949E&text_color=8B949E&langs_count=8&card_width=400&exclude_repo=writer-studio" />
+    <img width="380" alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hoobnn&layout=compact&hide_border=true&bg_color=00000000&title_color=57606A&text_color=57606A&langs_count=8&card_width=400&exclude_repo=writer-studio" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=hoobnn&v=3&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&card_width=400&title_color=8B949E&icon_color=8B949E&text_color=8B949E" />
+    <img width="380" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=hoobnn&v=3&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&card_width=400&title_color=57606A&icon_color=57606A&text_color=57606A" />
+  </picture>
+</p>
+
 </div>
 
 ## 项目
@@ -50,23 +61,3 @@
 - 使用问题、功能建议：在对应项目提 Issue 或 Discussion
 - 安全漏洞：用项目页的 **Security › Report a vulnerability** 私下报告
 - 其他事情：[uhoobnn@ikuyu.com](mailto:uhoobnn@ikuyu.com)，或 X 上的 [@uhoobnn](https://x.com/uhoobnn)
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoobnn/hoobnn/output/snake-dark.svg" />
-  <img width="720" alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/hoobnn/hoobnn/output/snake.svg" />
-</picture>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=hoobnn&layout=compact&hide_border=true&bg_color=00000000&title_color=8B949E&text_color=8B949E&langs_count=8&card_width=400&exclude_repo=writer-studio" />
-    <img width="380" alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hoobnn&layout=compact&hide_border=true&bg_color=00000000&title_color=57606A&text_color=57606A&langs_count=8&card_width=400&exclude_repo=writer-studio" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=hoobnn&v=3&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&card_width=400&title_color=8B949E&icon_color=8B949E&text_color=8B949E" />
-    <img width="380" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=hoobnn&v=3&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&card_width=400&title_color=57606A&icon_color=57606A&text_color=57606A" />
-  </picture>
-</p>
-
-</div>
