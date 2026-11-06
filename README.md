@@ -29,32 +29,35 @@
 
 </div>
 
+我是 hoobnn，平时写 macOS 小工具、AI 创作工具和编程 Agent 插件。下面的项目都免费开源，中文 README 为主，顶部附英文版。个人网站：[爱酷语 ikuyu.com](https://www.ikuyu.com)。
+
+<sub>I'm hoobnn. I build free, open-source macOS utilities, AI storytelling tools and plugins for coding agents such as Claude Code and Codex. Website: [ikuyu.com](https://www.ikuyu.com).</sub>
+
 ### 在做的东西
 
 #### macOS 小工具
 
-- [FanFan](https://github.com/hoobnn/fanfan)：菜单栏风扇控制与温度监控工具，支持 Apple Silicon 和 Intel 机型
-- [LiveTranslate Bridge](https://github.com/hoobnn/livetranslate-bridge)：为通话、会议及任意 App 的音频提供实时翻译和双语字幕
-- [Keyboard Logo Fix](https://github.com/hoobnn/macos-keyboard-logo-fix)：在 macOS 上恢复 SCC100、FMate98 键盘的自定义 LOGO 灯效
+- [FanFan](https://github.com/hoobnn/fanfan)：Mac 风扇控制与温度监控菜单栏工具，支持 Apple Silicon 和 Intel（[官网](https://hoobnn.github.io/fanfan/)）
+- [LiveTranslate Bridge](https://github.com/hoobnn/livetranslate-bridge)：macOS 实时语音翻译与双语字幕，适用于 iPhone 来电、会议和任意 App 的音频（[官网](https://hoobnn.github.io/livetranslate-bridge/)）
+- [Keyboard Logo Fix](https://github.com/hoobnn/macos-keyboard-logo-fix)：修复 SCC100、FMate98 键盘在 macOS 上 LOGO 灯变绿、灯效丢失的问题
+- [CUIT 校园网](https://github.com/hoobnn/cuit-campus-login)：成都信息工程大学校园网自动登录，macOS 菜单栏与 Windows 托盘原生应用，不开浏览器
 
-以上工具均可通过 Homebrew 安装：`brew tap hoobnn/tap`（[homebrew-tap](https://github.com/hoobnn/homebrew-tap)）。
+以上工具均可通过 Homebrew 安装：`brew tap hoobnn/tap`（[homebrew-tap](https://github.com/hoobnn/homebrew-tap)），发布流程用的是 [ci-workflows](https://github.com/hoobnn/ci-workflows)（签名、公证、Release 与 cask 同步）。
 
 #### AI 创作与 Agent
 
-- [Plein](https://github.com/hoobnn/plein)：开源 AI 无限画布，从一句创意开始，剧本、分镜、镜头与配音在画布上铺开，和 AI Agent 一起完成作品（[官网](https://plein.ikuyu.com)）
-- [novel-harness](https://github.com/hoobnn/novel-harness)：Claude Code 长篇小说写作插件，由多个子智能体分工完成规划、写作与审校，时间线、人物状态和伏笔由独立的事实层记录并校验
+- [Plein](https://github.com/hoobnn/plein)：开源 AI 无限画布，从一句创意开始，剧本、分镜、镜头与配音在画布上铺开，和 AI Agent 一起完成短剧（[官网](https://plein.ikuyu.com)）
+- [Modelbay](https://github.com/hoobnn/modelbay)：火山方舟、阿里云百炼、MiniMax、豆包语音与 OpenAI 的统一 TypeScript SDK、MCP 服务和 CLI（[npm](https://www.npmjs.com/package/modelbay)）
+- [novel-harness](https://github.com/hoobnn/novel-harness)：Claude Code 长篇小说写作插件，七个子智能体分工规划、写作与审校，时间线、人物状态和伏笔由独立的事实层记录并校验
 <!-- - [writer-studio](https://github.com/hoobnn/writer-studio)：基于 Cherry Studio 改造的本地长篇写作工具 -->
-- [hoobnn-skills](https://github.com/hoobnn/hoobnn-skills)：适用于 Claude Code 和 Codex 的 Agent Skills 合集，涵盖 Git 工作流、数据竞赛与数学建模
-- [hoobnn-mcps](https://github.com/hoobnn/hoobnn-mcps)：MCP server 合集，提供火山方舟 Seedream 生图，以及阿里云百炼的图像、语音、视频生成与语言模型调用
-- [hoobnn-agent-mods](https://github.com/hoobnn/hoobnn-agent-mods)：Claude Code 插件合集，包括状态栏 HUD、Tailscale 节点状态条等
+- [hoobnn-skills](https://github.com/hoobnn/hoobnn-skills)：Claude Code、Codex、opencode 通用的 Agent Skills 与插件市场，涵盖 Git 工作流、数据竞赛与数学建模
+- [hoobnn-agent-mods](https://github.com/hoobnn/hoobnn-agent-mods)：Claude Code 插件合集，包括状态栏 HUD、任务进度条、回合回执、Tailscale 节点状态等
 
-#### 其他
+#### 网络与自托管
 
 - [fly-rule](https://github.com/hoobnn/fly-rule)：Surge 与 mihomo（Clash Meta）分流规则集，每日同步更新
-- [luci-app-mihomo-traffic](https://github.com/hoobnn/luci-app-mihomo-traffic)：OpenClash 流量统计插件，按设备、节点、域名统计流量，在 full-cone NAT 下也能正常统计
-- [ci-workflows](https://github.com/hoobnn/ci-workflows)：可复用的 GitHub Actions 工作流，用于 macOS 应用的签名、公证与发布
-
-<sub>Mostly macOS utilities, AI storytelling and coding-agent tooling and proxy rule sets. READMEs are in Chinese with English versions linked at the top.</sub>
+- [luci-app-mihomo-traffic](https://github.com/hoobnn/luci-app-mihomo-traffic)：OpenClash 流量统计 LuCI 插件，按设备、节点、域名统计，全锥形 NAT 下也能正常工作
+- [komari-plugins](https://github.com/hoobnn/komari-plugins)：Komari 探针面板插件，bark-plus 把离线告警通过 Bark 推送到 iPhone
 
 ### 联系我
 
